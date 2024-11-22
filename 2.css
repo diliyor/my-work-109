@@ -1,0 +1,24 @@
+.qw {border-style: solid;
+border-color: green;
+width: 200px; height: 200px;}
+.qwe {border-style: dotted;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwer {border-style: dashed;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwert {border-style: double;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwerty {border-style: groove;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwertyu {border-style: ridge;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwertyui {border-style: inset;
+    border-color: green;
+    width: 200px; height: 200px;}
+.qwertyuio {border-style: outset;
+    border-color: green;
+    width: 200px; height: 200px;}
